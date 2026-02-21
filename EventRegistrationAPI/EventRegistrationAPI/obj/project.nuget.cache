@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PFAfx+sKZ0c=",
+  "dgSpecHash": "tVAafCrMjMI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MOHD ASHHAD\\source\\repos\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj",
+  "projectFilePath": "C:\\Users\\MOHD ASHHAD\\OneDrive\\Desktop\\Yusuf Projects\\Dotnet\\FullStack\\EventRegistrationApp\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MOHD ASHHAD\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\MOHD ASHHAD\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MOHD ASHHAD\\source\\repos\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj": {}
+    "C:\\Users\\MOHD ASHHAD\\OneDrive\\Desktop\\Yusuf Projects\\Dotnet\\FullStack\\EventRegistrationApp\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MOHD ASHHAD\\source\\repos\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj": {
+    "C:\\Users\\MOHD ASHHAD\\OneDrive\\Desktop\\Yusuf Projects\\Dotnet\\FullStack\\EventRegistrationApp\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MOHD ASHHAD\\source\\repos\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\MOHD ASHHAD\\OneDrive\\Desktop\\Yusuf Projects\\Dotnet\\FullStack\\EventRegistrationApp\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj",
         "projectName": "EventRegistrationAPI",
-        "projectPath": "C:\\Users\\MOHD ASHHAD\\source\\repos\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj",
+        "projectPath": "C:\\Users\\MOHD ASHHAD\\OneDrive\\Desktop\\Yusuf Projects\\Dotnet\\FullStack\\EventRegistrationApp\\EventRegistrationAPI\\EventRegistrationAPI\\EventRegistrationAPI.csproj",
         "packagesPath": "C:\\Users\\MOHD ASHHAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MOHD ASHHAD\\source\\repos\\EventRegistrationAPI\\EventRegistrationAPI\\obj\\",
+        "outputPath": "C:\\Users\\MOHD ASHHAD\\OneDrive\\Desktop\\Yusuf Projects\\Dotnet\\FullStack\\EventRegistrationApp\\EventRegistrationAPI\\EventRegistrationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
