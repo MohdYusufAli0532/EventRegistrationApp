@@ -1,0 +1,46 @@
+<h2 class="mb-4 text-center">Events</h2>
+
+<!-- If empty -->
+<div *ngIf="(events$ | async)?.length === 0" class="alert alert-info text-center">
+  No events available.
+</div>
+
+<!-- Event List -->
+<div class="row g-4">
+  <div
+    class="col-12 col-md-6 col-lg-4"
+    *ngFor="let evt of (events$ | async)"
+  >
+    <div class="card shadow-sm h-100 border-0">
+      <div class="card-body">
+
+        <h3 class="card-title text-primary">{{ evt.title }}</h3>
+
+        <p class="mb-1">
+          <strong>Date:</strong>
+          {{ evt.eventDate | date }}
+        </p>
+
+        <p class="mb-1">
+          <strong>Max Seats:</strong>
+          {{ evt.maxSeats }}
+        </p>
+
+        <p class="mb-1">
+          <strong>Registered:</strong>
+          {{ evt.participants?.length }}
+        </p>
+
+        <p class="fw-bold">
+          <strong>Available Seats:</strong>
+          {{ evt.maxSeats - (evt.participants?.length || 0) }}
+        </p>
+
+        <div class="mt-3">
+          <app-register [eventId]="evt.id"></app-register>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

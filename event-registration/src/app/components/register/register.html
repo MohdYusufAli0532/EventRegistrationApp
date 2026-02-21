@@ -1,0 +1,13 @@
+<div class="register-box">
+  <h4>Register</h4>
+
+  <label>Name:</label>
+  <input type="text" [(ngModel)]="name">
+
+  <label>Email:</label>
+  <input type="email" [(ngModel)]="email">
+
+  <button (click)="register()">Submit</button>
+
+  <p>{{ message }}</p>
+</div>
